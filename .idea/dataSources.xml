@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="expressproject@115.159.67.97" uuid="f2d2a88e-7e94-4c0a-9bbf-fb993f5123c8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://115.159.67.97:3306/expressproject</jdbc-url>
+    </data-source>
+  </component>
+</project>

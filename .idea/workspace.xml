@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af46effd-1595-457d-be94-470054c18ebe" name="Default Changelist" comment="第三次" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\repository" />
+        <option name="mavenHome" value="F:\Maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iJ3JY8PAK91rHuajsK4yYPfBNh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571843551482" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Program\Bisher\yuanxu\express-project\src\main\resources\static" />
+      <recent name="E:\IDEA_web\express-project\src\main\resources\static\layui" />
+      <recent name="E:\IDEA_web\express-project\src\main\resources\templates\data\offer" />
+      <recent name="E:\IDEA_web\express-project\src\main\resources\templates\data\branchexpend" />
+      <recent name="E:\IDEA_web\express-project\src\main\resources\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_web\express-project\src\main\java\com\aaa\service\impl" />
+      <recent name="E:\IDEA_web\express-project\src\main\java\com\aaa\service" />
+      <recent name="E:\IDEA_web\express-project\src\main\resources\mapper" />
+      <recent name="E:\IDEA_web\express-project\src\main\java\com\aaa\mapper" />
+      <recent name="E:\IDEA_web\express-project\src\main\java\com\aaa\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aaa.entity" />
+      <recent name="com.aaa.controller" />
+      <recent name="com.aaa" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.aaa.mapper" />
+      <recent name="com.aaa.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="express-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aaa.ExpressProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af46effd-1595-457d-be94-470054c18ebe" name="Default Changelist" comment="" />
+      <created>1571803619129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571803619129</updated>
+      <workItem from="1571803622950" duration="1471000" />
+      <workItem from="1571829812777" duration="680000" />
+      <workItem from="1571830873368" duration="9616000" />
+      <workItem from="1571843802184" duration="1247000" />
+      <workItem from="1571845211268" duration="67000" />
+      <workItem from="1571876099606" duration="1238000" />
+      <workItem from="1571897590958" duration="16520000" />
+      <workItem from="1571962665602" duration="6251000" />
+      <workItem from="1571998803441" duration="6617000" />
+      <workItem from="1572079492994" duration="14419000" />
+      <workItem from="1572148410910" duration="22900000" />
+      <workItem from="1572221291063" duration="13765000" />
+      <workItem from="1572249879269" duration="3837000" />
+      <workItem from="1572254059121" duration="9693000" />
+      <workItem from="1572308229364" duration="22966000" />
+      <workItem from="1572394859092" duration="13211000" />
+      <workItem from="1572431295741" duration="7310000" />
+      <workItem from="1572439086214" duration="485000" />
+      <workItem from="1572440750666" duration="7927000" />
+      <workItem from="1572480283134" duration="8058000" />
+      <workItem from="1572501189799" duration="16761000" />
+      <workItem from="1572566914234" duration="8360000" />
+      <workItem from="1572590654128" duration="18783000" />
+      <workItem from="1572620084758" duration="4056000" />
+      <workItem from="1572676663594" duration="10283000" />
+      <workItem from="1572764931609" duration="10999000" />
+      <workItem from="1572827178928" duration="469000" />
+      <workItem from="1572827685712" duration="11058000" />
+      <workItem from="1572853732848" duration="5497000" />
+      <workItem from="1572863279614" duration="7125000" />
+      <workItem from="1572913252433" duration="5329000" />
+      <workItem from="1572933517831" duration="6500000" />
+      <workItem from="1572940393253" duration="62000" />
+      <workItem from="1572945045407" duration="1502000" />
+      <workItem from="1572954293035" duration="9878000" />
+      <workItem from="1572999003829" duration="8785000" />
+      <workItem from="1573020982021" duration="6515000" />
+      <workItem from="1573036768364" duration="7008000" />
+      <workItem from="1573085407804" duration="9838000" />
+      <workItem from="1573103365926" duration="780000" />
+      <workItem from="1573104272322" duration="11018000" />
+      <workItem from="1573172790219" duration="43684000" />
+      <workItem from="1573355793223" duration="6210000" />
+      <workItem from="1573364522250" duration="6000" />
+      <workItem from="1573382746598" duration="6533000" />
+      <workItem from="1573431953397" duration="739000" />
+      <workItem from="1573432739346" duration="10923000" />
+      <workItem from="1573467222966" duration="9875000" />
+      <workItem from="1573482373935" duration="479000" />
+      <workItem from="1573482960738" duration="437000" />
+      <workItem from="1573522573281" duration="4694000" />
+      <workItem from="1573538803556" duration="4805000" />
+      <workItem from="1573605111088" duration="4725000" />
+      <workItem from="1573640983052" duration="7570000" />
+      <workItem from="1573659034064" duration="1829000" />
+      <workItem from="1573690797930" duration="871000" />
+      <workItem from="1573693926191" duration="2342000" />
+      <workItem from="1573696982592" duration="2748000" />
+      <workItem from="1573792229493" duration="856000" />
+      <workItem from="1573793198469" duration="793000" />
+      <workItem from="1573794088857" duration="138000" />
+      <workItem from="1573894363558" duration="3220000" />
+      <workItem from="1573989378687" duration="2008000" />
+      <workItem from="1574036079529" duration="11235000" />
+      <workItem from="1574144169458" duration="4239000" />
+      <workItem from="1574158929780" duration="4760000" />
+      <workItem from="1574164747427" duration="1823000" />
+      <workItem from="1574247116215" duration="23129000" />
+      <workItem from="1574395744045" duration="3853000" />
+      <workItem from="1574861929476" duration="615000" />
+      <workItem from="1601611797312" duration="1352000" />
+      <workItem from="1601613314528" duration="243000" />
+      <workItem from="1601613593007" duration="5071000" />
+      <workItem from="1601636461365" duration="1646000" />
+      <workItem from="1601697387715" duration="2070000" />
+      <workItem from="1601710611495" duration="139000" />
+      <workItem from="1601864113865" duration="414000" />
+      <workItem from="1602058245566" duration="2351000" />
+      <workItem from="1602999595356" duration="214000" />
+      <workItem from="1603164831835" duration="1688000" />
+      <workItem from="1603250767356" duration="2299000" />
+      <workItem from="1603271802514" duration="182000" />
+      <workItem from="1603272007693" duration="103000" />
+      <workItem from="1603272199468" duration="199000" />
+      <workItem from="1603272440216" duration="2111000" />
+      <workItem from="1603280070620" duration="182000" />
+      <workItem from="1603280256888" duration="1000" />
+      <workItem from="1603280274076" duration="26000" />
+      <workItem from="1603280522832" duration="2000" />
+      <workItem from="1603280571900" duration="186000" />
+      <workItem from="1603280815173" duration="1446000" />
+      <workItem from="1603334217515" duration="1257000" />
+      <workItem from="1603365071590" duration="43000" />
+      <workItem from="1603365127368" duration="1360000" />
+      <workItem from="1603421811955" duration="31000" />
+      <workItem from="1603429606753" duration="29000" />
+      <workItem from="1603429642961" duration="99000" />
+      <workItem from="1604209636939" duration="248000" />
+      <workItem from="1604209990003" duration="776000" />
+      <workItem from="1604225552528" duration="17000" />
+      <workItem from="1604286351960" duration="30000" />
+      <workItem from="1604286386832" duration="2000" />
+      <workItem from="1604286393600" duration="1000" />
+      <workItem from="1604286406757" duration="85000" />
+      <workItem from="1604804660959" duration="624000" />
+      <workItem from="1604805917647" duration="1150000" />
+      <workItem from="1604824119446" duration="1626000" />
+      <workItem from="1604882062001" duration="16000" />
+      <workItem from="1605235875206" duration="3300000" />
+      <workItem from="1605247204422" duration="40000" />
+      <workItem from="1605694732245" duration="647000" />
+      <workItem from="1605707274166" duration="62000" />
+      <workItem from="1605749655068" duration="14000" />
+      <workItem from="1605749684694" duration="5000" />
+      <workItem from="1605749700861" duration="10000" />
+      <workItem from="1605749721331" duration="6413000" />
+      <workItem from="1605762572466" duration="11000" />
+      <workItem from="1605762587841" duration="2902000" />
+      <workItem from="1605784843104" duration="3469000" />
+      <workItem from="1605796445270" duration="63000" />
+      <workItem from="1605796526008" duration="151000" />
+      <workItem from="1605839039342" duration="106000" />
+      <workItem from="1605847947267" duration="2594000" />
+      <workItem from="1606041497872" duration="965000" />
+      <workItem from="1606107931340" duration="17000" />
+      <workItem from="1607681444723" duration="15000" />
+      <workItem from="1607681464417" duration="321000" />
+    </task>
+    <task id="LOCAL-00001" summary="第二次">
+      <created>1572829008002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572829008002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第三次">
+      <created>1572834726816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572834726816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="第二次" />
+    <MESSAGE value="第三次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>express-project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
